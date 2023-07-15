@@ -4,7 +4,7 @@
     color: aliceblue;
 }
 body{
-    background-image: url(images/download.jpeg);
+    background-image: url("images/download.jpeg");
     background-size: cover;
     background-position: center;
     overflow-x: hidden;
