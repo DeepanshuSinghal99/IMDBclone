@@ -113,7 +113,7 @@ i {
 main {
     width: 100vw;
     height: 85vh;
-    background-image: url(https://github.com/DeepanshuSinghal99/IMDBclone/blob/de3f642c22c65841a8e3b21f862f6b098e1e2974/images/download.jpeg);
+    background-image: url(images/download.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
